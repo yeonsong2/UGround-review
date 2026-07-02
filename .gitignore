@@ -1,0 +1,6 @@
+models/
+screenspot/images/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+UGround.zip
